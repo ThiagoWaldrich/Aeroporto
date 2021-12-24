@@ -1,0 +1,21 @@
+O arquivo referente a prova é denominado de "AtiviadeAvaliativa.js", os demais arquivos são rascunhos que se assemelham aos "pull requests" do 
+github. 
+
+Basicamente o programa solicita a entrada de dados como: Nome, Codigo do voo, Destino, Origem etc.. Após essa coletagem de dados incial, o programa
+solicita que o passageiro denomine qual o voo que ele pretende embarcar, pergunta ainda a poltrona que o passageiro deseja alocar-se.
+
+Após isso, quando pressionamos "N" para não cadastrar mais passageiros, o programa retorna uma sequência de listas com seus respectivos dados,
+e os dados referentes a prova.
+
+
+Dificuldades:
+Os métodos Map, Filter e Reduce não foram utilizados. Por serem métodos específicos da linguagem ficou um pouco difícil encaixá-los na lógica
+previamente desenvolvida, dessa forma, apesar do funcionamento da aplicação, essa etapa da prova não foi bem sucedida. Na parte de pesquisa de dados de um
+usuário que tem como destino um determinado lugar foi utilizado o método include em vez de filter
+
+Pontos positivos:
+Apesar da linguagem possuir seus métodos próprios, o conhecimento da disciplina "Estrutura de Dados" foi amplamente utilizado no desenvolvimento
+da aplicação. Remetendo aos assuntos "Pilhas" e "filas", foram utilizados os métodos pop() e shift() para a retirada de elementos no indice inici-
+al do array e no índice final. Para a retirada de elementos no meio dos arrays foi utilizado o método splice. 
+
+
